@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Quicksand&display=swap');
+
+p {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.rat1 {
+  width: 100%;
+  height: auto;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+.rat2 {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.rat3 {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
